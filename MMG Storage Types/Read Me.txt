@@ -1,0 +1,18 @@
+You will need to edit the values of the usage, category, value, nominals and mins
+of all the MMG types to your liking and validate your edited files. 
+
+Then
+
+Add the following below to your cfgeconomycore.xml under </defaults>:
+
+    <ce folder="MMG_Storage">		
+		<file name="Craftable.xml" type="types" />
+		<file name="Crates_Cases_Cabinets_Boxes.xml" type="types" />
+		<file name="GunRacks_GunWall.xml" type="types" />
+                <file name="Lockers.xml" type="types" />
+		<file name="Misc.xml" type="types" />
+		<file name="Statics.xml" type="types" />
+	</ce>
+
+Finally, add the MMG_Storage folder to your map MP Mission folder.
+

@@ -1,0 +1,11 @@
+Add the following to whatever your storage json file you use in your traders folder:
+
+        "MMGStorage\\MMG_Crates_Cases_Cabinets_Boxes",
+        "MMGStorage\\MMG_GunRacks",
+	"MMGStorage\\MMG_Lockers",
+	"MMGStorage\\MMG_Misc",
+        
+**These are json files so mind your commas**
+
+Then add the MMGStorage folder to Profile(or config)/ExpansionMod/Market folder		
+Adjust the pricing to your liking. 

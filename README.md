@@ -5,4 +5,4 @@ Workshop mod. I did not look at any of the PBOs.
 
 Each folder has its own Read Me file for instructions
 
-All credit goes to the great Mighty Moitzbert for creating and maintaining this great mod.
+All credit goes to Mighty Moitzbert for creating and maintaining this great mod.
